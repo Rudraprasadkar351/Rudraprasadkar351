@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rudraprasadkar351
-- 👀 I’m interested in ...data science
+- 👀 I’m interested in ...data Analytics 
 - 🌱 I’m currently learning ...bachlor in technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
